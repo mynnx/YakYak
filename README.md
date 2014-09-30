@@ -10,12 +10,12 @@ And then?  We laugh at ourselves.
 ![](https://raw.githubusercontent.com/wiki/mynnx/YakYak/screenshot-1.png "Recording view")               ![](https://raw.githubusercontent.com/wiki/mynnx/YakYak/screenshot-2.png "Default view")
 
 
-This is YakYak.  It's not anywhere close to done.  The designs will change, and I'm sure the code isn't stellar.  That's okay; it's my first go at Android development.  I'm developing it out in the open, right here on GitHub.
+This is YakYak.  It's not anywhere close to done.  The designs will change, and I'm sure the code isn't stellar.  That's okay; it's my first go at Android development.
 
-Use YY to:
+## Use YY to:
 
   * Listen to your friends and total strangers making fools of themselves
-  * Throw your own silliness into the pile, contributing to this great repository of silliness
+  * Throw your own submission into the pile, contributing to this great repository of silliness
   * Create more prompts and hear others' playful interpretations
   * Release yourself from fear of failure and judgment for just a few minutes
   
