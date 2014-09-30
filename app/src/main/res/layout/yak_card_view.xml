@@ -1,0 +1,41 @@
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#000000">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Prompt"
+        android:id="@+id/prompt"
+        android:textSize="30sp"
+        android:textColor="#FFFFFF"
+        android:padding="50dp"
+        android:gravity="center" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:paddingBottom="50dp">
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/recordButton"
+                android:background="@android:color/transparent"
+                android:src="@drawable/microphone_button"
+                android:onClick="startRecording"/>
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:id="@+id/playButton"
+                android:src="@drawable/play_button"/>
+    </LinearLayout>
+</LinearLayout>
