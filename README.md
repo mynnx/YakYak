@@ -7,7 +7,7 @@ This world needs more playfulness.  We need more freedom to step away from our p
 
 And then?  We laugh at ourselves.
 
-![](https://raw.githubusercontent.com/wiki/mynnx/YakYak/screenshot-1.png "Recording view") ![](https://raw.githubusercontent.com/wiki/mynnx/YakYak/screenshot-2.png "Default view")
+![](https://raw.githubusercontent.com/wiki/mynnx/YakYak/screenshot-1.png "Recording view")               ![](https://raw.githubusercontent.com/wiki/mynnx/YakYak/screenshot-2.png "Default view")
 
 
 This is YakYak.  It's not anywhere close to done.  The designs will change, and I'm sure the code isn't stellar.  That's okay; it's my first go at Android development.  I'm developing it out in the open, right here on GitHub.
